@@ -485,13 +485,14 @@ require "header.php";
                             class="flaticon-charity-hand-holding-a-stalk  text-theme-colored"></i>
                         </a>
                         <div class="p-10">
-                          <h4 class="text-uppercase text-white mt-0">Become a
-                            Volunteer</h4>
-                          <p class="text-white">Lorem ipsum dolor sit amet, <br>
-                            conse ctetur adipisicing.</p>
-                          <a href="page-become-a-volunteer.html"
+                          <h4 class="text-uppercase text-white mt-0">VISION</h4>
+                          <p class="text-white">A society where the right to life and 
+                            development of PUWDs, minority and 
+                            vulnerable groups  are
+                             protected.</p>
+                          <!-- <a href="page-become-a-volunteer.html"
                             class="btn btn-border btn-circled btn-transparent btn-sm">Join
-                            us Now</a>
+                            us Now</a> -->
                         </div>
                       </div>
                     </div>
@@ -507,13 +508,13 @@ require "header.php";
                             class="flaticon-charity-dove-of-peace text-theme-colored"></i>
                         </a>
                         <div class="p-10">
-                          <h4 class="text-uppercase text-white mt-0">Adopt a
-                            Child</h4>
-                          <p class="text-white">Lorem ipsum dolor sit amet, <br>
-                            conse ctetur adipisicing.</p>
-                          <a href="page-become-a-volunteer.html"
+                          <h4 class="text-uppercase text-white mt-0">MISSION</h4>
+                          <p class="text-white">To improve the life experiences of  PWUDs, 
+                            minority and vulnerable groups 
+                            in Nigeria through promotion and  ...</p>
+                          <!-- <a href="page-become-a-volunteer.html"
                             class="btn btn-border btn-circled btn-transparent btn-sm">Contact
-                            us</a>
+                            us</a> -->
                         </div>
                       </div>
                     </div>
@@ -529,13 +530,15 @@ require "header.php";
                             class="flaticon-charity-make-a-donation text-theme-colored"></i>
                         </a>
                         <div class="p-10">
-                          <h4 class="text-uppercase text-white mt-0">Get
-                            Involved</h4>
-                          <p class="text-white">Lorem ipsum dolor sit amet, <br>
-                            conse ctetur adipisicing.</p>
-                          <a href="page-become-a-volunteer.html"
+                          <h4 class="text-uppercase text-white mt-0">Our value</h4>
+                          <p class="text-white">Excellence - We align focus and survive to meet 
+                            our goals effectively and efficiently. 
+
+                              Accountability - we embrace modern innovations, 
+                              and open to periodic assessment..</p>
+                          <!-- <a href="page-become-a-volunteer.html"
                             class="btn btn-border btn-circled btn-transparent btn-sm">Donate
-                            Us</a>
+                            Us</a> -->
                         </div>
                       </div>
                     </div>
@@ -551,12 +554,18 @@ require "header.php";
                             class="flaticon-charity-responsible-use-of-water text-theme-colored"></i>
                         </a>
                         <div class="p-10">
-                          <h4 class="text-uppercase text-white mt-0">Emergency
-                            Case</h4>
-                          <h3 class="text-white">+(012) 345 6789</h3>
-                          <a href="page-become-a-volunteer.html"
+                          <h4 class="text-uppercase text-white mt-0">Main Beneficiaries </h4>
+                          
+                           
+                            <ul>
+                            <li class="text-white">•	People Who Abuse Drugs  and their families (children inclusive) </li>
+<li class="text-white">• Sexual Minorities </li>
+<li class="text-white">• In-and-out of school youths</li>
+                            </ul>
+        
+                          <!-- <a href="tel:<?php echo $company_number ?>"
                             class="btn btn-border btn-circled btn-transparent btn-sm">Contact
-                            Now</a>
+                            Now</a> -->
                         </div>
                       </div>
                     </div>
@@ -573,13 +582,15 @@ require "header.php";
             <div class="section-content">
               <div class="row mt-10">
                 <div class="col-sm-5 col-md-3 mb-sm-20">
-                  <h3 class="text-uppercase letter-space-1 mt-0">We are eCharity
-                    Funding <span class="text-theme-colored"> Network Worldwide.</span></h3>
-                  <p class="lead mt-20 mb-30">Quam distinctio quis perspiciatis
-                    facere accusamus perferendis eligendi odit cum nemo fugit,
-                    tenetur sequi expedita earum nobis optio tempora id
-                    repellendus?</p>
-                  <a href="#" class="btn btn-colored btn-theme-colored btn-sm">View
+                  <h3 class="text-uppercase letter-space-1 mt-0">About 
+                    <span class="text-theme-colored"> Us</span></h3>
+                  <p class="lead mt-20 mb-30">Charity Heart for Good Health Initiative (CHGHI) is a
+                     non-governmental PWUD community led organization set
+                      up to promote and defend the fundamental human rights of PWUDs, 
+                      sexual minority and vulnerable groups in Nigeria.
+
+ </p>
+                  <a href="about" class="btn btn-colored btn-theme-colored btn-sm">View
                     Details</a>
                 </div>
                 <div class="col-sm-7 col-md-9">
@@ -588,14 +599,17 @@ require "header.php";
                       <div class="box-hover-effect effect1 mb-sm-30">
                         <div class="thumb"> <a href="#"><img
                               class="img-fullwidth mb-20"
-                              src="images/services/bg-3.jpg" alt="..."></a>
+                              src="images/CHGHI/meeting.jpeg" alt="..."></a>
                         </div>
                         <div class="caption">
-                          <h4 class="text-uppercase letter-space-1 mt-0">Building<span
-                              class="text-theme-colored"> Orphanage</span></h4>
-                          <p>Quam distinctio quis perspiciatis facere accusamus
-                            perferendis eligendi odit cum nemo fugit eligendi</p>
-                          <p><a href="#"
+                          <h4 class="text-uppercase letter-space-1 mt-0">Financial <span
+                              class="text-theme-colored"> Responsibility:</span></h4>
+                          <p>We take the stewardship of donations seriously. 
+                            A significant portion of every dollar donated goes directly to our programs and the people we serve. 
+                            We maintain low overhead costs, ensuring that your contribution 
+                            <!-- goes where it is needed most. -->
+                          </p>
+                          <p><a href="about"
                               class="btn btn-theme-colored btn-flat mt-10 btn-sm"
                               role="button">Read More</a></p>
                         </div>
@@ -605,14 +619,15 @@ require "header.php";
                       <div class="box-hover-effect effect1 mb-sm-30">
                         <div class="thumb"> <a href="#"><img
                               class="img-fullwidth mb-20"
-                              src="images/services/bg-5.jpg" alt="..."></a>
+                              src="images/CHGHI/group.jpeg" alt="..."></a>
                         </div>
                         <div class="caption">
-                          <h4 class="text-uppercase letter-space-1 mt-0">Building<span
-                              class="text-theme-colored"> Hospital</span></h4>
-                          <p>Quam distinctio quis perspiciatis facere accusamus
-                            perferendis eligendi odit cum nemo fugit eligendi</p>
-                          <p><a href="#"
+                          <h4 class="text-uppercase letter-space-1 mt-0">Community of <span
+                              class="text-theme-colored"> Supporters:</span></h4>
+                          <p>By choosing us, you become part of a community of like-minded 
+                            individuals and organizations who are equally passionate 
+                            about our mission. This network amplifies our collective impact.</p>
+                          <p><a href="about"
                               class="btn btn-theme-colored btn-flat mt-10 btn-sm"
                               role="button">Read More</a></p>
                         </div>
@@ -622,14 +637,20 @@ require "header.php";
                       <div class="box-hover-effect effect1 mb-sm-30">
                         <div class="thumb"> <a href="#"><img
                               class="img-fullwidth mb-20"
-                              src="images/services/bg-4.jpg" alt="..."></a>
+                              src="images/CHGHI/group2.jpeg" alt="..."></a>
                         </div>
                         <div class="caption">
-                          <h4 class="text-uppercase letter-space-1 mt-0">Educating
-                            <span class="text-theme-colored"> Children</span></h4>
-                          <p>Quam distinctio quis perspiciatis facere accusamus
-                            perferendis eligendi odit cum nemo fugit eligendi</p>
-                          <p><a href="#"
+                          <h4 class="text-uppercase letter-space-1 mt-0">Transparency: 
+                            <span class="text-theme-colored"> </span></h4>
+                          <p>We believe in complete transparency in our operations. 
+                            We readily share information about our financials, programs, and results, 
+                            so you can see the 
+                            tangible outcomes of your support.
+                            
+                            <br>
+                            <br>
+                          </p>
+                          <p><a href="about"
                               class="btn btn-theme-colored btn-flat mt-10 btn-sm"
                               role="button">Read More</a></p>
                         </div>
@@ -2172,5 +2193,7 @@ require "header.php";
 
       <!-- Footer -->
      <?php
+
      require "footer.php";
+
       ?>

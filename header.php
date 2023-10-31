@@ -1,3 +1,12 @@
+<?php
+
+$company_name = "Charity Heart for Good Health Initiative (CHGHI)";
+$company_email = "charityheartinitiative@gmail.com";
+$company_phone = "+2348066552835";
+$company_number = $company_phone;
+
+
+?>
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 
@@ -8,13 +17,13 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <meta name="description"
-      content="eCharity - Nonprofit, Crowdfunding & Charity HTML5 Template" />
+      content="<?php echo $company_name ?>" />
     <meta name="keywords"
-      content="Charity,Nonprofit,Crowdfunding,Donation & Fundraising" />
-    <meta name="author" content="ThemeMascot" />
+      content="<?php echo $company_name ?>" />
+    
 
     <!-- Page Title -->
-    <title>eCharity - Nonprofit, Crowdfunding & Charity HTML5 Template</title>
+    <title><?php echo $company_name ?></title>
 
     <!-- Favicon and Touch Icons -->
     <link href="images/favicon.png" rel="shortcut icon" type="image/png">
@@ -112,13 +121,13 @@
                     class="list-inline pull-right flip sm-pull-none sm-text-center mt-5">
                     <li class="m-0 pl-10 pr-10"> <i
                         class="fa fa-phone text-white"></i> <a
-                        class="text-white" href="#">123-456-789</a> </li>
+                        class="text-white" href="tel:<?php echo $company_name ?>"><?php echo $company_phone ?></a> </li>
                     <li class="text-white m-0 pl-10 pr-10"> <i
                         class="fa fa-clock-o text-white"></i> Mon-Fri 8:00 to
                       2:00 </li>
                     <li class="m-0 pl-10 pr-10"> <i
                         class="fa fa-envelope-o text-white"></i> <a
-                        class="text-white" href="#">contact@yourdomain.com</a>
+                        class="text-white" href="mailto:<?php echo $company_email ?>"><?php echo $company_email ?></a>
                     </li>
                   </ul>
                 </div>
@@ -129,14 +138,15 @@
                     class="list-inline pull-right flip sm-pull-none sm-text-center mt-5">
                     <li class="mt-sm-10 mb-sm-10">
                       <!-- Modal: Appointment Starts -->
-                      <a
+                      <!-- <a
                         class="btn btn-default btn-flat btn-xs bg-light p-5 font-11 pl-10 pr-10 ajaxload-popup"
                         href="ajax-load/donation-form.html">Donate Now</a>
                     </li>
                     <li class="mt-sm-10 mb-sm-10">
                       <a
                         class="btn btn-default btn-flat btn-xs bg-light p-5 font-11 pl-10 pr-10 ajaxload-popup"
-                        href="ajax-load/volunteer-apply-form.html">Join Us</a>
+                        href="ajax-load/volunteer-apply-form.html">Join Us
+                    </a> -->
                     </li>
                   </ul>
                 </div>
