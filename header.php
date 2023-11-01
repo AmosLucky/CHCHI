@@ -160,7 +160,7 @@ $company_number = $company_phone;
         <div class="header-nav">
           <div class="header-nav-wrapper navbar-scrolltofixed bg-white">
             <div class="container">
-              <nav id="menuzord-right" class="menuzord green no-bg">
+              <nav id="menuzord-right" class="menuzord blue no-bg">
                 <a class="menuzord-brand pull-left flip"
                   href="javascript:void(0)"><img src="images/logo-wide.png" alt></a>
                 <ul class="menuzord-menu">
