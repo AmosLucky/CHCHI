@@ -20,11 +20,11 @@ require "header.php";
                     data-transition="slidingoverlayhorizontal"
                     data-slotamount="default" data-easein="default"
                     data-easeout="default" data-masterspeed="default"
-                    data-thumb="images/bg/bg4.jpg" data-rotate="0"
+                    data-thumb="images/chghi/banner_1.jpg" data-rotate="0"
                     data-saveperformance="off" data-title="Slide 1"
                     data-description>
                     <!-- MAIN IMAGE -->
-                    <img src="images/bg/bg4.jpg" alt
+                    <img src="images/chghi/banner_1.jpg" alt
                       data-bgposition="center center" data-bgfit="cover"
                       data-bgrepeat="no-repeat" class="rev-slidebg"
                       data-bgparallax="10" data-no-retina>
@@ -32,7 +32,8 @@ require "header.php";
 
                     <!-- LAYER NR. 1 -->
                     <div
-                      class="tp-caption tp-resizeme text-uppercase  bg-dark-transparent text-white font-raleway pl-30 pr-30"
+                      class="tp-caption tp-resizeme text-uppercase 
+                       bg-dark-transparent text-white font-raleway pl-30 pr-30"
                       id="rs-1-layer-1"
                       data-x="['center']"
                       data-hoffset="['0']"
@@ -138,11 +139,11 @@ require "header.php";
                     data-transition="slidingoverlayhorizontal"
                     data-slotamount="default" data-easein="default"
                     data-easeout="default" data-masterspeed="default"
-                    data-thumb="images/bg/bg5.jpg" data-rotate="0"
+                    data-thumb="images/chghi/banner_4.jpg" data-rotate="0"
                     data-saveperformance="off" data-title="Slide 2"
                     data-description>
                     <!-- MAIN IMAGE -->
-                    <img src="images/bg/bg5.jpg" alt
+                    <img src="images/chghi/banner_4.jpg" alt
                       data-bgposition="center center" data-bgfit="cover"
                       data-bgrepeat="no-repeat" class="rev-slidebg"
                       data-bgparallax="10" data-no-retina>
@@ -255,11 +256,11 @@ require "header.php";
                     data-transition="slidingoverlayhorizontal"
                     data-slotamount="default" data-easein="default"
                     data-easeout="default" data-masterspeed="default"
-                    data-thumb="images/bg/bg7.jpg" data-rotate="0"
+                    data-thumb="images/chghi/banner_1.jpg" data-rotate="0"
                     data-saveperformance="off" data-title="Slide 3"
                     data-description>
                     <!-- MAIN IMAGE -->
-                    <img src="images/bg/bg7.jpg" alt
+                    <img src="images/chghi/banner_2.jpg" alt
                       data-bgposition="center center" data-bgfit="cover"
                       data-bgrepeat="no-repeat" class="rev-slidebg"
                       data-bgparallax="10" data-no-retina>
@@ -662,270 +663,79 @@ require "header.php";
             </div>
           </div>
         </section>
-
-        <!-- Section: Causes 3 -->
-        <section class="bg-lighter">
-          <div class="container pb-80">
-            <div class="section-title text-center">
-              <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                  <h2 class="mt-0 line-height-1">Our <span
-                      class="text-theme-colored"> Causes</span></h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Rem autem<br> voluptatem obcaecati!</p>
-                </div>
-              </div>
-            </div>
-            <div class="row mtli-row-clearfix">
-              <div class="owl-carousel-3col" data-nav="true">
-                <div class="item">
-                  <div
-                    class="causes bg-lighter box-hover-effect effect1 maxwidth500 mb-sm-30">
-                    <div class="thumb">
-                      <img class="img-fullwidth" alt src="images/project/w1.jpg">
-                    </div>
-                    <div class="progress-item mt-0">
-                      <div class="progress mb-0">
-                        <div class="progress-bar" data-percent="84"></div>
-                      </div>
-                    </div>
-                    <div
-                      class="causes-details clearfix border-bottom p-15 pt-10">
-                      <h5><a href="#">Sponsor For Education</a></h5>
-                      <p>Lorem ipsum dolor sit amet, consect adipisicing elit.
-                        Praesent quos sit.</p>
-                      <ul class="list-inline clearfix mt-20">
-                        <li class="pull-left pr-0">Raised: $1890</li>
-                        <li class="text-theme-colored pull-right pr-0">Goal:
-                          $2500</li>
-                      </ul>
-                      <div class="mt-10">
-                        <a
-                          class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10"
-                          href="#">Donate</a>
-                        <div class="pull-right mt-15"><i
-                            class="fa fa-heart-o text-theme-colored"></i> 89
-                          Donors</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="item">
-                  <div
-                    class="causes bg-lighter box-hover-effect effect1 maxwidth500 mb-sm-30">
-                    <div class="thumb">
-                      <img class="img-fullwidth" alt src="images/project/w2.jpg">
-                    </div>
-                    <div class="progress-item mt-0">
-                      <div class="progress mb-0">
-                        <div class="progress-bar" data-percent="84"></div>
-                      </div>
-                    </div>
-                    <div
-                      class="causes-details clearfix border-bottom p-15 pt-10">
-                      <h5><a href="#">Sponsor For Food</a></h5>
-                      <p>Lorem ipsum dolor sit amet, consect adipisicing elit.
-                        Praesent quos sit.</p>
-                      <ul class="list-inline clearfix mt-20">
-                        <li class="pull-left pr-0">Raised: $1890</li>
-                        <li class="text-theme-colored pull-right pr-0">Goal:
-                          $2500</li>
-                      </ul>
-                      <div class="mt-10">
-                        <a
-                          class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10"
-                          href="#">Donate</a>
-                        <div class="pull-right mt-15"><i
-                            class="fa fa-heart-o text-theme-colored"></i> 89
-                          Donors</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="item">
-                  <div
-                    class="causes bg-lighter box-hover-effect effect1 maxwidth500 mb-sm-30">
-                    <div class="thumb">
-                      <img class="img-fullwidth" alt src="images/project/w3.jpg">
-                    </div>
-                    <div class="progress-item mt-0">
-                      <div class="progress mb-0">
-                        <div class="progress-bar" data-percent="84"></div>
-                      </div>
-                    </div>
-                    <div
-                      class="causes-details clearfix border-bottom p-15 pt-10">
-                      <h5><a href="#">Sponsor For Nepal</a></h5>
-                      <p>Lorem ipsum dolor sit amet, consect adipisicing elit.
-                        Praesent quos sit.</p>
-                      <ul class="list-inline clearfix mt-20">
-                        <li class="pull-left pr-0">Raised: $1890</li>
-                        <li class="text-theme-colored pull-right pr-0">Goal:
-                          $2500</li>
-                      </ul>
-                      <div class="mt-10">
-                        <a
-                          class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10"
-                          href="#">Donate</a>
-                        <div class="pull-right mt-15"><i
-                            class="fa fa-heart-o text-theme-colored"></i> 89
-                          Donors</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="item">
-                  <div
-                    class="causes bg-lighter box-hover-effect effect1 maxwidth500 mb-sm-30">
-                    <div class="thumb">
-                      <img class="img-fullwidth" alt src="images/project/w4.jpg">
-                    </div>
-                    <div class="progress-item mt-0">
-                      <div class="progress mb-0">
-                        <div class="progress-bar" data-percent="84"></div>
-                      </div>
-                    </div>
-                    <div
-                      class="causes-details clearfix border-bottom p-15 pt-10">
-                      <h5><a href="#">Sponsor For Refugees</a></h5>
-                      <p>Lorem ipsum dolor sit amet, consect adipisicing elit.
-                        Praesent quos sit.</p>
-                      <ul class="list-inline clearfix mt-20">
-                        <li class="pull-left pr-0">Raised: $1890</li>
-                        <li class="text-theme-colored pull-right pr-0">Goal:
-                          $2500</li>
-                      </ul>
-                      <div class="mt-10">
-                        <a
-                          class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10"
-                          href="#">Donate</a>
-                        <div class="pull-right mt-15"><i
-                            class="fa fa-heart-o text-theme-colored"></i> 89
-                          Donors</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="item">
-                  <div
-                    class="causes bg-lighter box-hover-effect effect1 maxwidth500 mb-sm-30">
-                    <div class="thumb">
-                      <img class="img-fullwidth" alt src="images/project/w7.jpg">
-                    </div>
-                    <div class="progress-item mt-0">
-                      <div class="progress mb-0">
-                        <div class="progress-bar" data-percent="84"></div>
-                      </div>
-                    </div>
-                    <div
-                      class="causes-details clearfix border-bottom p-15 pt-10">
-                      <h5><a href="#">Sponsor For Drinking Water</a></h5>
-                      <p>Lorem ipsum dolor sit amet, consect adipisicing elit.
-                        Praesent quos sit.</p>
-                      <ul class="list-inline clearfix mt-20">
-                        <li class="pull-left pr-0">Raised: $1890</li>
-                        <li class="text-theme-colored pull-right pr-0">Goal:
-                          $2500</li>
-                      </ul>
-                      <div class="mt-10">
-                        <a
-                          class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10"
-                          href="#">Donate</a>
-                        <div class="pull-right mt-15"><i
-                            class="fa fa-heart-o text-theme-colored"></i> 89
-                          Donors</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        <!-- Section:why choose us 2 -->
-        <section id="about">
-          <div class="container-fluid pt-0 pb-0">
-            <div class="row equal-height">
-              <div class="col-sm-6 col-md-6 pt-0 pb-0 bg-img-cover hidden-xs"
-                data-bg-img="images/photos/p2.jpg">
-              </div>
-              <div class="col-sm-6 col-md-6 bg-lighter mt-sm-0 pt-sm-0">
-                <div class="pt-80 pb-90 pl-80 pr-100 p-md-30">
-                  <h2
-                    class="mb-30 mb-sm-10 mt-0 mt-sm-10 line-height-1 text-center">How
-                    <span class="text-theme-colored"> Can Help?</span></h2>
-                  <div class="row">
-                    <div class="col-xs-12 col-sm-6 col-md-6">
-                      <div class="icon-box border-1px p-15 mb-30">
-                        <a class="icon pull-left sm-pull-none flip" href="#">
-                          <i
-                            class="flaticon-charity-make-an-online-donation text-theme-colored"></i>
-                        </a>
-                        <div class="ml-70 ml-sm-0">
-                          <h5
-                            class="icon-box-title mt-15 mt-sm-0 mb-5 text-uppercase">Give
-                            Donation</h5>
-                          <p>Lorem ipsum dolor sit amet, consectetur.</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-6 col-md-6">
-                      <div class="icon-box border-1px p-15 mb-30">
-                        <a class="icon pull-left sm-pull-none flip" href="#">
-                          <i
-                            class="flaticon-charity-shaking-hands-inside-a-heart text-theme-colored"></i>
-                        </a>
-                        <div class="ml-70 ml-sm-0">
-                          <h5
-                            class="icon-box-title mt-15 mt-sm-0  mb-5 text-uppercase">Become
-                            Volenteer</h5>
-                          <p>Lorem ipsum dolor sit amet, consectetur.</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-6 col-md-6">
-                      <div class="icon-box border-1px p-15 mb-30">
-                        <a class="icon pull-left sm-pull-none flip" href="#">
-                          <i
-                            class="flaticon-charity-hand-holding-a-gift text-theme-colored"></i>
-                        </a>
-                        <div class="ml-70 ml-sm-0">
-                          <h5
-                            class="icon-box-title mt-15 mt-sm-0 mb-5 text-uppercase">Give
-                            Scholarship</h5>
-                          <p>Lorem ipsum dolor sit amet, consectetur.</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-6 col-md-6">
-                      <div class="icon-box border-1px p-15 mb-30">
-                        <a class="icon pull-left sm-pull-none flip" href="#">
-                          <i
-                            class="flaticon-charity-dove-of-peace-1 text-theme-colored"></i>
-                        </a>
-                        <div class="ml-70 ml-sm-0">
-                          <h5
-                            class="icon-box-title mt-15 mt-sm-0 mb-5 text-uppercase">Adopt
-                            a Child</h5>
-                          <p>Lorem ipsum dolor sit amet, consectetur.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        <!-- Section: Running Project 1  -->
         <section>
+      <div class="container">
+        <div class="section-title">
+          <div class="row">
+            <div class="col-md-6">
+              <h5 class="font-weight-300 m-0">What we do</h5>
+              <h2 class="mt-0 text-uppercase font-28">Our Prime <span class="text-theme-colored font-weight-400">Focus</span> <span class="font-30 text-theme-colored"></span></h2>
+              <div class="icon">
+                <i class="fa fa-hospital-o"></i>
+              </div>
+            </div>
+            <div class="col-md-6"> <p>With strong CORE VALUES, and a hold on meaningful PARTNERSHIPS, ECEWS mounts its brand around a tripod of:</p></div>
+          </div>
+        </div>
+        <div class="section-content">
+          <div class="row mtli-row-clearfix">
+            <div class="col-sm-4 col-md-4 col-lg-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s;">
+              <div class="causes maxwidth500 mb-sm-50">
+                
+                <div class="causes-details clearfix">
+                  <div class="p-30 p-sm-15 bg-lighter">
+                    <h4><a href="#"><b>Education</b></a></h4>
+                    <p>We have transform the lives of dozens of children through our Educational Programs.</p>
+                    <ul class="list-inline clearfix mt-20 mb-20">
+                      
+                    </ul>
+                     <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="Educational_Project.html">Read More</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4 col-md-4 col-lg-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s;">
+              <div class="causes maxwidth500 mb-sm-50">
+                
+                <div class="causes-details clearfix">
+                  <div class="p-30 p-sm-15 bg-lighter">
+                    <h4><a href="#"><b>Healthcare</b></a></h4>
+                    <p>We respond to emergencies and manage diseases through our health care programs.</p>
+                    <ul class="list-inline clearfix mt-20 mb-20">
+                      
+                    </ul>
+                     <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="Health_Project.html">Read more</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-4 col-md-4 col-lg-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.7s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.7s;">
+              <div class="causes maxwidth500 mb-sm-50">
+              
+                <div class="causes-details clearfix">
+                  <div class="p-30 p-sm-15 bg-lighter">
+                    <h4><a href="#"><b>Economic Strengthening</b></a></h4>
+                    <p>We work to improve the lives of our citizens via our cash transfer and other programs.</p>
+                    <ul class="list-inline clearfix mt-20 mb-20">
+                      
+                    </ul>
+                     <a class="btn btn-dark btn-theme-colored btn-sm text-uppercase mt-10" href="Economic_Strenthening_Projects.html">Read More</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!---porojects --->
+     <!-- Section: Running Project 1  -->
+     <section>
           <div class="container">
             <div class="section-title text-center">
               <div class="row">
                 <div class="col-md-12">
-                  <h2 class="mt-0 line-height-1">Running <span
+                  <h2 class="mt-0 line-height-1">Our <span
                       class="text-theme-colored"> Projects</span></h2>
                 </div>
               </div>
@@ -960,579 +770,18 @@ require "header.php";
                       </p>
                     </div>
                   </div>
-                  <div class="gallery-item">
-                    <div class="thumb">
-                      <img class="img-fullwidth" src="images/portfolio/p2.jpg"
-                        alt="project">
-                      <div class="overlay-shade"></div>
-                      <div class="icons-holder">
-                        <div class="icons-holder-inner">
-                          <div
-                            class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                            <a data-lightbox="image"
-                              href="images/portfolio/p2.jpg"><i
-                                class="fa fa-plus"></i></a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="horse-details">
-                      <h4 class="title mb-5"><a href="#">Relocate Refugees</a></h4>
-                      <span class="category">Seria / Medilist</span>
-                      <p>
-                        <a href="#"
-                          class="btn btn-theme-colored btn-flat mt-5 btn-sm"
-                          role="button">Donate</a>
-                        <span class="pull-right ml-10 mt-12 font-14">Goal: $2500</span>
-                      </p>
-                    </div>
-                  </div>
-                  <div class="gallery-item">
-                    <div class="thumb">
-                      <img class="img-fullwidth" src="images/portfolio/p3.jpg"
-                        alt="project">
-                      <div class="overlay-shade"></div>
-                      <div class="icons-holder">
-                        <div class="icons-holder-inner">
-                          <div
-                            class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                            <a data-lightbox="image"
-                              href="images/portfolio/p3.jpg"><i
-                                class="fa fa-plus"></i></a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="horse-details">
-                      <h4 class="title mb-5"><a href="#">Pure Drinking Water</a></h4>
-                      <span class="category">Somalia/ South Africa</span>
-                      <p>
-                        <a href="#"
-                          class="btn btn-theme-colored btn-flat mt-5 btn-sm"
-                          role="button">Donate</a>
-                        <span class="pull-right ml-10 mt-12 font-14">Goal: $2500</span>
-                      </p>
-                    </div>
-                  </div>
-                  <div class="gallery-item">
-                    <div class="thumb">
-                      <img class="img-fullwidth" src="images/portfolio/p4.jpg"
-                        alt="project">
-                      <div class="overlay-shade"></div>
-                      <div class="icons-holder">
-                        <div class="icons-holder-inner">
-                          <div
-                            class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                            <a data-lightbox="image"
-                              href="images/portfolio/p4.jpg"><i
-                                class="fa fa-plus"></i></a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="horse-details">
-                      <h4 class="title mb-5"><a href="#">Educating Poor</a></h4>
-                      <span class="category">India / South Asia</span>
-                      <p>
-                        <a href="#"
-                          class="btn btn-theme-colored btn-flat mt-5 btn-sm"
-                          role="button">Donate</a>
-                        <span class="pull-right ml-10 mt-12 font-14">Goal: $2500</span>
-                      </p>
-                    </div>
-                  </div>
-                  <div class="gallery-item">
-                    <div class="thumb">
-                      <img class="img-fullwidth" src="images/portfolio/p5.jpg"
-                        alt="project">
-                      <div class="overlay-shade"></div>
-                      <div class="icons-holder">
-                        <div class="icons-holder-inner">
-                          <div
-                            class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                            <a data-lightbox="image"
-                              href="images/portfolio/p5.jpg"><i
-                                class="fa fa-plus"></i></a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="horse-details">
-                      <h4 class="title mb-5"><a href="#">Food For Poor</a></h4>
-                      <span class="category">India / South Asia</span>
-                      <p>
-                        <a href="#"
-                          class="btn btn-theme-colored btn-flat mt-5 btn-sm"
-                          role="button">Donate</a>
-                        <span class="pull-right ml-10 mt-12 font-14">Goal: $2500</span>
-                      </p>
-                    </div>
-                  </div>
-                  <div class="gallery-item">
-                    <div class="thumb">
-                      <img class="img-fullwidth" src="images/portfolio/p6.jpg"
-                        alt="project">
-                      <div class="overlay-shade"></div>
-                      <div class="icons-holder">
-                        <div class="icons-holder-inner">
-                          <div
-                            class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                            <a data-lightbox="image"
-                              href="images/portfolio/p6.jpg"><i
-                                class="fa fa-plus"></i></a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="horse-details">
-                      <h4 class="title mb-5"><a href="#">Child Adoption</a></h4>
-                      <span class="category">India / South Asia</span>
-                      <p>
-                        <a href="#"
-                          class="btn btn-theme-colored btn-flat mt-5 btn-sm"
-                          role="button">Donate</a>
-                        <span class="pull-right ml-10 mt-12 font-14">Goal: $2500</span>
-                      </p>
-                    </div>
-                  </div>
-                  <div class="gallery-item">
-                    <div class="thumb">
-                      <img class="img-fullwidth" src="images/portfolio/p7.jpg"
-                        alt="project">
-                      <div class="overlay-shade"></div>
-                      <div class="icons-holder">
-                        <div class="icons-holder-inner">
-                          <div
-                            class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                            <a data-lightbox="image"
-                              href="images/portfolio/p7.jpg"><i
-                                class="fa fa-plus"></i></a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="horse-details">
-                      <h4 class="title mb-5"><a href="#">Shalter For Refugees</a></h4>
-                      <span class="category">Seria / Medilist</span>
-                      <p>
-                        <a href="#"
-                          class="btn btn-theme-colored btn-flat mt-5 btn-sm"
-                          role="button">Donate</a>
-                        <span class="pull-right ml-10 mt-12 font-14">Goal: $2500</span>
-                      </p>
-                    </div>
-                  </div>
-                  <div class="gallery-item">
-                    <div class="thumb">
-                      <img class="img-fullwidth" src="images/portfolio/p8.jpg"
-                        alt="project">
-                      <div class="overlay-shade"></div>
-                      <div class="icons-holder">
-                        <div class="icons-holder-inner">
-                          <div
-                            class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                            <a data-lightbox="image"
-                              href="images/portfolio/p8.jpg"><i
-                                class="fa fa-plus"></i></a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="horse-details">
-                      <h4 class="title mb-5"><a href="#">Collecting Volunteers</a></h4>
-                      <span class="category">Sydney Roosters / Sydney</span>
-                      <p>
-                        <a href="#"
-                          class="btn btn-theme-colored btn-flat mt-5 btn-sm"
-                          role="button">Donate</a>
-                        <span class="pull-right ml-10 mt-12 font-14">Goal: $2500</span>
-                      </p>
-                    </div>
-                  </div>
+               
+                
                 </div>
               </div>
             </div>
           </div>
         </section>
 
-        <!-- Divider: Make a Donation 1 -->
-        <section class="divider parallax" data-bg-img="images/bg/bg2.jpg"
-          data-parallax-ratio="0.7">
-          <div class="container pt-0 pb-0">
-            <div class="row">
-              <div class="col-md-8">
-                <div class="bg-dark-transparent-8 p-40">
-                  <h3 class="mt-0 line-bottom text-white">Make a Donation Now!</h3>
 
-                  <!-- ===== START: Paypal Both Onetime/Recurring Form ===== -->
-                  <form id="paypal_donate_form_onetime_recurring">
-                    <div class="row">
-                      <div class="col-md-12">
-                        <img src="images/payment-card-logo-sm.png" alt>
-                        <div class="form-group mt-20 mb-20">
-                          <label><strong class="text-white">Payment Type</strong></label>
-                          <br>
-                          <label class="radio-inline">
-                            <input type="radio" checked value="one_time"
-                              name="payment_type">
-                            One Time
-                          </label>
-                          <label class="radio-inline">
-                            <input type="radio" value="recurring"
-                              name="payment_type">
-                            Recurring
-                          </label>
-                        </div>
-                      </div>
+        <!-- Section:why choose us 2 -->
+        
 
-                      <div class="col-sm-12" id="donation_type_choice">
-                        <div class="form-group mb-20">
-                          <label><strong>Donation Type</strong></label>
-                          <div class="radio mt-5">
-                            <label class="radio-inline">
-                              <input type="radio" value="D" name="t3" checked>
-                              Daily</label>
-                            <label class="radio-inline">
-                              <input type="radio" value="W" name="t3">
-                              Weekly</label>
-                            <label class="radio-inline">
-                              <input type="radio" value="M" name="t3">
-                              Monthly</label>
-                            <label class="radio-inline">
-                              <input type="radio" value="Y" name="t3">
-                              Yearly</label>
-                          </div>
-                        </div>
-                      </div>
-
-                      <div class="col-sm-6">
-                        <div class="form-group mb-20">
-                          <label><strong class="text-white">I Want to Donate for</strong></label>
-                          <select name="item_name" class="form-control">
-                            <option value="Educate Children">Educate Children</option>
-                            <option value="Child Camps">Child Camps</option>
-                            <option value="Clean Water for Life">Clean Water for
-                              Life</option>
-                            <option value="Campaign for Child Poverty">Campaign
-                              for Child Poverty</option>
-                          </select>
-                        </div>
-                      </div>
-
-                      <div class="col-sm-6">
-                        <div class="form-group mb-20">
-                          <label><strong class="text-white">Currency</strong></label>
-                          <select name="currency_code" class="form-control">
-                            <option value>Select Currency</option>
-                            <option value="USD" selected="selected">USD - U.S.
-                              Dollars</option>
-                            <option value="AUD">AUD - Australian Dollars</option>
-                            <option value="BRL">BRL - Brazilian Reais</option>
-                            <option value="GBP">GBP - British Pounds</option>
-                            <option value="HKD">HKD - Hong Kong Dollars</option>
-                            <option value="HUF">HUF - Hungarian Forints</option>
-                            <option value="INR">INR - Indian Rupee</option>
-                            <option value="ILS">ILS - Israeli New Shekels</option>
-                            <option value="JPY">JPY - Japanese Yen</option>
-                            <option value="MYR">MYR - Malaysian Ringgit</option>
-                            <option value="MXN">MXN - Mexican Pesos</option>
-                            <option value="TWD">TWD - New Taiwan Dollars</option>
-                            <option value="NZD">NZD - New Zealand Dollars</option>
-                            <option value="NOK">NOK - Norwegian Kroner</option>
-                            <option value="PHP">PHP - Philippine Pesos</option>
-                            <option value="PLN">PLN - Polish Zlotys</option>
-                            <option value="RUB">RUB - Russian Rubles</option>
-                            <option value="SGD">SGD - Singapore Dollars</option>
-                            <option value="SEK">SEK - Swedish Kronor</option>
-                            <option value="CHF">CHF - Swiss Francs</option>
-                            <option value="THB">THB - Thai Baht</option>
-                            <option value="TRY">TRY - Turkish Liras</option>
-                          </select>
-                        </div>
-                      </div>
-
-                      <div class="col-sm-12">
-                        <div class="form-group mb-20">
-                          <label><strong class="text-white">How much do you want
-                              to donate?</strong></label>
-                          <div class="radio mt-5">
-                            <label class="radio-inline">
-                              <input type="radio" name="amount" value="20">
-                              $20</label>
-                            <label class="radio-inline">
-                              <input type="radio" name="amount" value="50">
-                              $50</label>
-                            <label class="radio-inline">
-                              <input type="radio" name="amount" value="100">
-                              $100</label>
-                            <label class="radio-inline">
-                              <input type="radio" name="amount" value="200">
-                              $200</label>
-                            <label class="radio-inline">
-                              <input type="radio" name="amount" value="500">
-                              $500</label>
-                            <label class="radio-inline">
-                              <input type="radio" name="amount" value="other">
-                              Other Amount</label>
-                          </div>
-                          <div id="custom_other_amount">
-                            <label><strong>Custom Amount:</strong></label>
-                          </div>
-                        </div>
-                      </div>
-
-                      <div class="col-sm-12">
-                        <div class="form-group">
-                          <button type="submit"
-                            class="btn btn-flat btn-dark btn-theme-colored mt-10 pl-30 pr-30"
-                            data-loading-text="Please wait...">Donate Now</button>
-                        </div>
-                      </div>
-                    </div>
-                  </form>
-
-                  <!-- Script for Donation Form Custom Amount -->
-                  <script type="text/javascript">
-                $(document).ready(function(e) {
-                  var $donation_form = $("#paypal_donate_form_onetime_recurring");
-                  //toggle custom amount
-                  var $custom_other_amount = $donation_form.find("#custom_other_amount");
-                  $custom_other_amount.hide();
-                  $donation_form.find("[name='amount']").change(function() {
-                      var $this = $(this);
-                      if ($this.val() == 'other') {
-                        $custom_other_amount.show().append('<div class="input-group"><span class="input-group-addon">$</span> <input id="input_other_amount" type="text" name="amount" class="form-control" value="100"/></div>');
-                      }
-                      else{
-                        $custom_other_amount.children( ".input-group" ).remove();
-                        $custom_other_amount.hide();
-                      }
-                  });
-
-                  //toggle donation_type_choice
-                  var $donation_type_choice = $donation_form.find("#donation_type_choice");
-                  $donation_type_choice.hide();
-                  $("input[name='payment_type']").change(function() {
-                      if (this.value == 'recurring') {
-                          $donation_type_choice.show();
-                      }
-                      else {
-                          $donation_type_choice.hide();
-                      }
-                  });
-
-
-                  // submit form on click
-                  $donation_form.on('submit', function(e){
-                      //$( "#paypal_donate_form-onetime" ).submit();
-                      var item_name = $donation_form.find("select[name='item_name'] option:selected").val();
-                      var currency_code = $donation_form.find("select[name='currency_code'] option:selected").val();
-                      var amount = $donation_form.find("[name='amount']:checked").val();
-                      var t3 = $donation_form.find("input[name='t3']:checked").val();
-
-                      if ( amount == 'other') {
-                        amount = $donation_form.find("#input_other_amount").val();
-                        console.log(amount);
-                      }
-
-                      // submit proper form now
-                      if ( $("input[name='payment_type']:checked", $donation_form).val() == 'recurring' ) {
-                          var recurring_form = $('#paypal_donate_form-recurring');
-
-                          recurring_form.find("input[name='item_name']").val(item_name);
-                          recurring_form.find("input[name='currency_code']").val(currency_code);
-                          recurring_form.find("input[name='a3']").val(amount);
-                          recurring_form.find("input[name='t3']").val(t3);
-
-                          recurring_form.find("input[type='submit']").trigger('click');
-
-                      } else if ( $("input[name='payment_type']:checked", $donation_form).val() == 'one_time' ) {
-                          var onetime_form = $('#paypal_donate_form-onetime');
-
-                          onetime_form.find("input[name='item_name']").val(item_name);
-                          onetime_form.find("input[name='currency_code']").val(currency_code);
-                          onetime_form.find("input[name='amount']").val(amount);
-
-                          onetime_form.find("input[type='submit']").trigger('click');
-                      }
-                      return false;
-                  });
-
-                });
-              </script>
-
-                  <!-- Paypal Onetime Form -->
-                  <form id="paypal_donate_form-onetime" class="hidden"
-                    action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                    <input type="hidden" name="cmd" value="_donations">
-                    <input type="hidden" name="business"
-                      value="accounts@thememascot.com">
-
-                    <input type="hidden" name="item_name"
-                      value="Educate Children"> <!-- updated dynamically -->
-                    <input type="hidden" name="currency_code" value="USD">
-                    <!-- updated dynamically -->
-                    <input type="hidden" name="amount" value="20">
-                    <!-- updated dynamically -->
-
-                    <input type="hidden" name="no_shipping" value="1">
-                    <input type="hidden" name="cn" value="Comments...">
-                    <input type="hidden" name="tax" value="0">
-                    <input type="hidden" name="lc" value="US">
-                    <input type="hidden" name="bn" value="PP-DonationsBF">
-                    <input type="hidden" name="return"
-                      value="http://www.yoursite.com/thankyou.html">
-                    <input type="hidden" name="cancel_return"
-                      value="http://www.yoursite.com/paymentcancel.html">
-                    <input type="hidden" name="notify_url"
-                      value="http://www.yoursite.com/notifypayment.php">
-                    <input type="submit" name="submit">
-                  </form>
-
-                  <!-- Paypal Recurring Form -->
-                  <form id="paypal_donate_form-recurring" class="hidden"
-                    action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                    <input type="hidden" name="cmd"
-                      value="_xclick-subscriptions">
-                    <input type="hidden" name="business"
-                      value="accounts@thememascot.com">
-
-                    <input type="hidden" name="item_name"
-                      value="Educate Children"> <!-- updated dynamically -->
-                    <input type="hidden" name="currency_code" value="USD">
-                    <!-- updated dynamically -->
-                    <input type="hidden" name="a3" value="20">
-                    <!-- updated dynamically -->
-                    <input type="hidden" name="t3" value="D">
-                    <!-- updated dynamically -->
-
-                    <input type="hidden" name="p3" value="1">
-                    <input type="hidden" name="rm" value="2">
-                    <input type="hidden" name="src" value="1">
-                    <input type="hidden" name="sra" value="1">
-                    <input type="hidden" name="no_shipping" value="0">
-                    <input type="hidden" name="no_note" value="1">
-                    <input type="hidden" name="lc" value="US">
-                    <input type="hidden" name="bn" value="PP-DonationsBF">
-                    <input type="hidden" name="return"
-                      value="http://www.yoursite.com/thankyou.html">
-                    <input type="hidden" name="cancel_return"
-                      value="http://www.yoursite.com/paymentcancel.html">
-                    <input type="hidden" name="notify_url"
-                      value="http://www.yoursite.com/notifypayment.php">
-                    <input type="submit" name="submit">
-                  </form>
-                  <!-- ===== END: Paypal Both Onetime/Recurring Form ===== -->
-
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        <!-- Section: volunteers 1 -->
-        <section id="team">
-          <div class="container pb-80">
-            <div class="section-title text-center">
-              <div class="row">
-                <div class="col-md-12">
-                  <h2 class="line-height-1 mt-0 mb-0 pb-20">Our<span
-                      class="text-theme-colored"> Volunteers</span></h2>
-                </div>
-              </div>
-            </div>
-            <div class="section-content">
-              <div class="row">
-                <div class="col-sm-6 col-md-3 col-lg-3 pb-sm-30">
-                  <div class="team-member">
-                    <div class="thumb"> <img src="images/team/1.jpg" alt
-                        class="img-fullwidth img-responsive"> </div>
-                    <div class="member-info">
-                      <div class="member-biography p-20">
-                        <h3 class="text-white mt-0 mb-10">Steve Smith</h3>
-                        <h5 class="text-white">Student</h5>
-                      </div>
-                      <div class="bg-white-transparent-9 text-center">
-                        <ul
-                          class="styled-icons icon-theme-colored icon-hover-theme-colored icon-circled pt-5">
-                          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                          <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                          <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-3 col-lg-3 pb-sm-30">
-                  <div class="team-member">
-                    <div class="volunteer-thumb"> <img src="images/team/2.jpg"
-                        alt class="img-fullwidth img-responsive"> </div>
-                    <div class="member-info">
-                      <div class="member-biography p-20">
-                        <h3 class="text-white mt-0 mb-10">Steve Smith</h3>
-                        <h5 class="text-white">Student</h5>
-                      </div>
-                      <div class="bg-white-transparent-9 text-center">
-                        <ul
-                          class="styled-icons icon-theme-colored icon-hover-theme-colored icon-circled pt-5">
-                          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                          <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                          <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-3 col-lg-3 pb-sm-30">
-                  <div class="team-member">
-                    <div class="volunteer-thumb"> <img src="images/team/3.jpg"
-                        alt class="img-fullwidth img-responsive"> </div>
-                    <div class="member-info">
-                      <div class="member-biography p-20">
-                        <h3 class="text-white mt-0 mb-10">Steve Smith</h3>
-                        <h5 class="text-white">Businessman</h5>
-                      </div>
-                      <div class="bg-white-transparent-9 text-center">
-                        <ul
-                          class="styled-icons icon-theme-colored icon-hover-theme-colored icon-circled pt-5">
-                          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                          <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                          <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-3 col-lg-3 pb-sm-30">
-                  <div class="team-member">
-                    <div class="volunteer-thumb"> <img src="images/team/4.jpg"
-                        alt class="img-fullwidth img-responsive"> </div>
-                    <div class="member-info">
-                      <div class="member-biography p-20">
-                        <h3 class="text-white mt-0 mb-10">Steve Smith</h3>
-                        <h5 class="text-white">Businessman</h5>
-                      </div>
-                      <div class="bg-white-transparent-9 text-center">
-                        <ul
-                          class="styled-icons icon-theme-colored icon-hover-theme-colored icon-circled pt-5">
-                          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                          <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                          <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        <!-- divider: Became a Volunteers 1 -->
         <section class="divider parallax layer-overlay overlay-deeper"
           data-bg-img="images/bg/bg5.jpg">
           <div class="container">
@@ -1541,24 +790,80 @@ require "header.php";
                 <div class="col-md-7">
                   <h2 class="line-height-1 mt-0 mb-0 pb-20 text-white">Become a<span
                       class="text-theme-colored"> Volunteers</span></h2>
-                  <p class="mb-30 text-white">Lorem ipsum dolor sit amet,
-                    consectetur adipisicing elit. Ex, et placeat ipsam, officiis
-                    fugiat doloremque ducimus tempore aliquid nihil soluta, quia
-                    similique veritatis! Quidem, repellendus exit placeat ipsam,
-                    officiis fugiat doloremque ducimus tempore aliquid nihil
-                    soluta, quia similique veritatis.</p>
+                  <p class="mb-30 text-white">"Charity is not just an act of kindness; 
+                    it's a profound expression of our shared humanity. In giving, 
+                    we not only uplift others but also nourish our own souls. 
+                    The ripple effect of a single act of generosity can touch countless lives, 
+                    reminding us that compassion is the true currency of the heart.".</p>
                   <a
                     class="btn btn-dark btn-theme-colored btn-lg btn-flat pull-left pl-30 pr-30"
-                    href="#">Join Us</a>
+                    href="contact-us">Join Us</a>
                 </div>
                 <div class="col-md-5">
                   <div class="fluid-video-wrapper">
-                    <iframe
-                      src="http://player.vimeo.com/video/22029657?title=0&amp;byline=0&amp;portrait=0"
-                      width="640" height="360" title="Creative" allowfullscreen></iframe>
+                   
                   </div>
                 </div>
               </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Section: Causes 3 -->
+        <section class="bg-lighter">
+          <div class="container pb-80">
+            <div class="section-title text-center">
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                  <h2 class="mt-0 line-height-1">Our <span
+                      class="text-theme-colored"> Causes</span></h2>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    Rem autem<br> voluptatem obcaecati!</p>
+                </div>
+              </div>
+            </div>
+            <div class="row mtli-row-clearfix">
+              <div class="owl-carousel-3col" data-nav="true">
+                
+                <div class="item">
+                  <div
+                    class="causes bg-lighter box-hover-effect effect1 maxwidth500 mb-sm-30">
+                    <div class="thumb">
+                      <img class="img-fullwidth" alt src="images/project/w2.jpg">
+                    </div>
+                    <div class="progress-item mt-0">
+                      <div class="progress mb-0">
+                        <div class="progress-bar" data-percent="84"></div>
+                      </div>
+                    </div>
+                    <div
+                      class="causes-details clearfix border-bottom p-15 pt-10">
+                      <h5><a href="#">Sponsor For Food</a></h5>
+                      <p>Lorem ipsum dolor sit amet, consect adipisicing elit.
+                        Praesent quos sit.</p>
+                      <ul class="list-inline clearfix mt-20">
+                        <li class="pull-left pr-0">Raised: $1890</li>
+                        <li class="text-theme-colored pull-right pr-0">Goal:
+                          $2500</li>
+                      </ul>
+                      <div class="mt-10">
+                        <a
+                          class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10"
+                          href="#">Donate</a>
+                        <div class="pull-right mt-15"><i
+                            class="fa fa-heart-o text-theme-colored"></i> 89
+                          Donors</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+
+                
+              
+              </div>
+              
             </div>
           </div>
         </section>
@@ -1647,318 +952,53 @@ require "header.php";
                 </div>
                 <div class="col-md-7 wow fadeInRight" data-wow-duration="1s"
                   data-wow-delay="0.3s">
-                  <h3 class="mt-0 line-bottom line-height-1">Photo <span
-                      class="text-theme-colored"> Gallery</span></h3>
+                  <h3 class="mt-0 line-bottom line-height-1">Our <span
+                      class="text-theme-colored"> Parnters</span></h3>
                   <!-- Portfolio Gallery Grid -->
                   <div id="grid" class="gallery-isotope grid-3 gutter clearfix">
                     <!-- Portfolio Item Start -->
-                    <div class="gallery-item photography">
-                      <div class="thumb">
-                        <img class="img-fullwidth" src="images/gallery/s1.jpg"
-                          alt="project">
-                        <div class="overlay-shade"></div>
-                        <div class="text-holder text-center">
-                          <h5 class="title">Gallery Title Here</h5>
-                        </div>
-                        <div class="icons-holder">
-                          <div class="icons-holder-inner">
-                            <div
-                              class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                              <a data-lightbox="image"
-                                href="images/gallery/s1.jpg"><i
-                                  class="fa fa-plus"></i></a>
-                              <a href="#"><i class="fa fa-link"></i></a>
-                            </div>
-                          </div>
-                        </div>
-                        <a class="hover-link" data-lightbox="image"
-                          href="images/gallery/s1.jpg">View more</a>
+
+                    <div class="display-table-parent pr-90 pl-90">
+              <div class="display-table">
+                <div class="display-table-cell">
+                  <div class="clients text-center pt-30 pb-20 bg-lightest-transparent">
+                    <div class="row">
+                      <div class="col-xs-6 col-sm-6 col-md-4">
+                        <img src="images/clients/1.png" alt="" width="100" class="mb-10">
                       </div>
+                      <div class="col-xs-6 col-sm-6 col-md-4">
+                        <img src="images/clients/2.png" alt="" width="100" class="mb-10">
+                      </div>
+                      <div class="col-xs-6 col-sm-6 col-md-4">
+                        <img src="images/clients/3.png" alt="" width="100" class="mb-10">
+                      </div>
+                      <div class="col-xs-6 col-sm-6 col-md-4">
+                        <img src="images/clients/4.png" alt="" width="100" class="mb-10">
+                      </div>
+                      <div class="col-xs-6 col-sm-6 col-md-4">
+                        <img src="images/clients/5.png" alt="" width="100" class="mb-10">
+                      </div>
+                      <div class="col-xs-6 col-sm-6 col-md-4">
+                        <img src="images/clients/6.png" alt="" width="100" class="mb-10">
+                      </div>
+                      <div class="clearfix"></div>
                     </div>
-                    <!-- Portfolio Item End -->
-
-                    <!-- Portfolio Item Start -->
-                    <div class="gallery-item branding">
-                      <div class="thumb">
-                        <img class="img-fullwidth" src="images/gallery/s2.jpg"
-                          alt="project">
-                        <div class="overlay-shade"></div>
-                        <div class="text-holder text-center">
-                          <h5 class="title">Gallery Title Here</h5>
-                        </div>
-                        <div class="icons-holder">
-                          <div class="icons-holder-inner">
-                            <div
-                              class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                              <a href="#"><i class="fa fa-link"></i></a>
-                              <a href="#"><i class="fa fa-heart-o"></i></a>
-                            </div>
-                          </div>
-                        </div>
-                        <a class="hover-link" data-lightbox="image"
-                          href="images/gallery/s2.jpg">View more</a>
+                  </div>                  
+                  <div class="mt-30">
+                    <h4 class="text-uppercase mb-5 text-black-222">Subscribe to our newsletter</h4>
+                    <!-- Mailchimp Subscription Form-->
+                    <form id="mailchimp-subscription-form" class="newsletter-form mt-10" novalidate="true">
+                      <label class="display-block" for="mce-EMAIL"></label>
+                      <div class="input-group">
+                        <input type="email" id="mce-EMAIL" data-height="43px" class="form-control input-lg" placeholder="Your Email" name="EMAIL" value="" style="height: 43px;">
+                        <span class="input-group-btn">
+                          <button type="submit" class="btn btn-flat btn-lg btn-colored btn-theme-colored m-0" data-height="43px" style="height: 43px;">Subscribe</button>
+                        </span>
                       </div>
-                    </div>
-                    <!-- Portfolio Item End -->
+                    </form>
 
-                    <!-- Portfolio Item Start -->
-                    <div class="gallery-item design">
-                      <div class="thumb">
-                        <img class="img-fullwidth" src="images/gallery/s3.jpg"
-                          alt="project">
-                        <div class="overlay-shade"></div>
-                        <div class="text-holder text-center">
-                          <h5 class="title">Gallery Title Here</h5>
-                        </div>
-                        <div class="icons-holder">
-                          <div class="icons-holder-inner">
-                            <div
-                              class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                              <a href="#"><i class="fa fa-link"></i></a>
-                            </div>
-                          </div>
-                        </div>
-                        <a class="hover-link" data-lightbox="image"
-                          href="images/gallery/s3.jpg">View more</a>
-                      </div>
-                    </div>
-                    <!-- Portfolio Item End -->
-
-                    <!-- Portfolio Item Start -->
-                    <div class="gallery-item photography">
-                      <div class="thumb">
-                        <img class="img-fullwidth" src="images/gallery/s4.jpg"
-                          alt="project">
-                        <div class="overlay-shade"></div>
-                        <div class="text-holder text-center">
-                          <h5 class="title">Gallery Title Here</h5>
-                        </div>
-                        <div class="icons-holder">
-                          <div class="icons-holder-inner">
-                            <div
-                              class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                              <a class="popup-youtube"
-                                href="http://www.youtube.com/watch?v=0O2aH4XLbto"><i
-                                  class="fa fa-youtube-play"></i></a>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Portfolio Item End -->
-
-                    <!-- Portfolio Item Start -->
-                    <div class="gallery-item branding">
-                      <div class="thumb">
-                        <img class="img-fullwidth" src="images/gallery/s5.jpg"
-                          alt="project">
-                        <div class="overlay-shade"></div>
-                        <div class="text-holder text-center">
-                          <h5 class="title">Gallery Title Here</h5>
-                        </div>
-                        <div class="icons-holder">
-                          <div class="icons-holder-inner">
-                            <div
-                              class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                              <a class="popup-vimeo"
-                                href="https://vimeo.com/45830194"><i
-                                  class="fa fa-play"></i></a>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Portfolio Item End -->
-
-                    <!-- Portfolio Item Start -->
-                    <div class="gallery-item design">
-                      <div class="thumb">
-                        <div class="flexslider-wrapper">
-                          <div class="flexslider">
-                            <ul class="slides">
-                              <li><a href="images/gallery/s1.jpg"
-                                  title="Portfolio Gallery - Photo 1"><img
-                                    src="images/gallery/s1.jpg" alt></a></li>
-                              <li><a href="images/gallery/s2.jpg"
-                                  title="Portfolio Gallery - Photo 2"><img
-                                    src="images/gallery/s2.jpg" alt></a></li>
-                              <li><a href="images/gallery/s3.jpg"
-                                  title="Portfolio Gallery - Photo 3"><img
-                                    src="images/gallery/s3.jpg" alt></a></li>
-                            </ul>
-                          </div>
-                        </div>
-                        <div class="overlay-shade"></div>
-                        <div class="text-holder text-center">
-                          <h5 class="title">Gallery Title Here</h5>
-                        </div>
-                        <div class="icons-holder">
-                          <div class="icons-holder-inner">
-                            <div
-                              class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                              <a href="#"><i class="fa fa-picture-o"></i></a>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Portfolio Item End -->
-
-                    <!-- Portfolio Item Start -->
-                    <div class="gallery-item photography">
-                      <div class="thumb">
-                        <img class="img-fullwidth" src="images/gallery/s1.jpg"
-                          alt="project">
-                        <div class="overlay-shade"></div>
-                        <div class="text-holder text-center">
-                          <h5 class="title">Gallery Title Here</h5>
-                        </div>
-                        <div class="icons-holder">
-                          <div class="icons-holder-inner">
-                            <div
-                              class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                              <a data-lightbox="image"
-                                href="images/gallery/s1.jpg"><i
-                                  class="fa fa-plus"></i></a>
-                              <a href="#"><i class="fa fa-link"></i></a>
-                            </div>
-                          </div>
-                        </div>
-                        <a class="hover-link" data-lightbox="image"
-                          href="images/gallery/s2.jpg">View more</a>
-                      </div>
-                    </div>
-                    <!-- Portfolio Item End -->
-
-                    <!-- Portfolio Item Start -->
-                    <div class="gallery-item design">
-                      <div class="thumb">
-                        <div class="flexslider-wrapper"
-                          data-direction="vertical">
-                          <div class="flexslider">
-                            <ul class="slides">
-                              <li><a href="images/gallery/s6.jpg"
-                                  title="Portfolio Gallery - Photo 1"><img
-                                    src="images/gallery/s6.jpg" alt></a></li>
-                              <li><a href="images/gallery/s5.jpg"
-                                  title="Portfolio Gallery - Photo 2"><img
-                                    src="images/gallery/s5.jpg" alt></a></li>
-                              <li><a href="images/gallery/s4.jpg"
-                                  title="Portfolio Gallery - Photo 3"><img
-                                    src="images/gallery/s4.jpg" alt></a></li>
-                            </ul>
-                          </div>
-                        </div>
-                        <div class="overlay-shade"></div>
-                        <div class="text-holder text-center">
-                          <h5 class="title">Gallery Title Here</h5>
-                        </div>
-                        <div class="icons-holder">
-                          <div class="icons-holder-inner">
-                            <div
-                              class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                              <a href="#"><i class="fa fa-picture-o"></i></a>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Portfolio Item End -->
-
-                    <!-- Portfolio Item Start -->
-                    <div class="gallery-item photography">
-                      <div class="thumb">
-                        <img class="img-fullwidth" src="images/gallery/s1.jpg"
-                          alt="project">
-                        <div class="overlay-shade"></div>
-                        <div class="text-holder text-center">
-                          <h5 class="title">Gallery Title Here</h5>
-                        </div>
-                        <div class="icons-holder">
-                          <div class="icons-holder-inner">
-                            <div
-                              class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                              <a data-lightbox="image"
-                                href="images/gallery/s1.jpg"><i
-                                  class="fa fa-plus"></i></a>
-                              <a href="#"><i class="fa fa-link"></i></a>
-                            </div>
-                          </div>
-                        </div>
-                        <a class="hover-link" data-lightbox="image"
-                          href="images/gallery/s2.jpg">View more</a>
-                      </div>
-                    </div>
-                    <!-- Portfolio Item End -->
-
-                  </div>
-                  <!-- End Portfolio Gallery Grid -->
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        <!-- Section: Testimonials and Logo -->
-        <section class="divider parallax layer-overlay  overlay-white-5"
-          data-stellar-background-ratio="0.2" data-bg-img="images/bg/bg1.jpg">
-          <div class="container pt-0 pb-0">
-            <div class="row equal-height">
-              <div class="col-md-7">
-                <div class="display-table-parent pr-90 pl-90">
-                  <div class="display-table">
-                    <div class="display-table-cell">
-                      <div
-                        class="clients text-center pt-30 pb-20 bg-lightest-transparent">
-                        <div class="row">
-                          <div class="col-xs-6 col-sm-6 col-md-4">
-                            <img src="images/clients/1.png" alt width="100"
-                              class="mb-10">
-                          </div>
-                          <div class="col-xs-6 col-sm-6 col-md-4">
-                            <img src="images/clients/2.png" alt width="100"
-                              class="mb-10">
-                          </div>
-                          <div class="col-xs-6 col-sm-6 col-md-4">
-                            <img src="images/clients/3.png" alt width="100"
-                              class="mb-10">
-                          </div>
-                          <div class="col-xs-6 col-sm-6 col-md-4">
-                            <img src="images/clients/4.png" alt width="100"
-                              class="mb-10">
-                          </div>
-                          <div class="col-xs-6 col-sm-6 col-md-4">
-                            <img src="images/clients/5.png" alt width="100"
-                              class="mb-10">
-                          </div>
-                          <div class="col-xs-6 col-sm-6 col-md-4">
-                            <img src="images/clients/6.png" alt width="100"
-                              class="mb-10">
-                          </div>
-                          <div class="clearfix"></div>
-                        </div>
-                      </div>
-                      <div class="mt-30">
-                        <h4 class="text-uppercase mb-5 text-black-222">Subscribe
-                          to our newsletter</h4>
-                        <!-- Mailchimp Subscription Form-->
-                        <form id="mailchimp-subscription-form"
-                          class="newsletter-form mt-10">
-                          <label class="display-block" for="mce-EMAIL"></label>
-                          <div class="input-group">
-                            <input type="email" id="mce-EMAIL"
-                              data-height="43px" class="form-control input-lg"
-                              placeholder="Your Email" name="EMAIL" value>
-                            <span class="input-group-btn">
-                              <button type="submit"
-                                class="btn btn-flat btn-lg btn-colored btn-theme-colored m-0"
-                                data-height="43px">Subscribe</button>
-                            </span>
-                          </div>
-                        </form>
-
-                        <!-- Mailchimp Subscription Form Validation-->
-                        <script type="text/javascript">
+                    <!-- Mailchimp Subscription Form Validation-->
+                    <script type="text/javascript">
                       $('#mailchimp-subscription-form').ajaxChimp({
                           callback: mailChimpCallBack,
                           url: '//thememascot.us9.list-manage.com/subscribe/post?u=a01f440178e35febc8cf4e51f&amp;id=49d6d30e1e'
@@ -1977,216 +1017,180 @@ require "header.php";
                           $mailchimpform.prepend($response);
                       }
                     </script>
-                      </div>
-                    </div>
                   </div>
                 </div>
               </div>
-              <div class="col-md-5 bg-light-transparent">
-                <div class="pt-50 pb-50 pl-20 pr-20">
-                  <h4 class="text-uppercase line-bottom mt-0">Our Donors Say</h4>
-                  <div class="testimonial-carousel owl-nav-top">
-                    <div class="item">
-                      <div class="text-center">
-                        <div class="thumb"><img class="img-circle" alt
-                            src="images/testimonials/1.jpg"></div>
-                        <div class="content pt-10">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Vestibulum feugiat turpis nec leo pellentesque
-                            tincidunt adipiscing elit.</p>
-                          <i
-                            class="fa fa-quote-right font-36 mt-10 text-gray-lightgray"></i>
-                          <h5 class="author text-theme-colored mb-0">Catherine
-                            Grace</h5>
-                          <h6 class="title text-gray mt-0 mb-15">Designer</h6>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="item">
-                      <div class="testimonial-wrapper text-center">
-                        <div class="thumb"><img class="img-circle" alt
-                            src="images/testimonials/2.jpg"></div>
-                        <div class="content pt-10">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Vestibulum feugiat turpis nec leo pellentesque
-                            tincidunt adipiscing elit.</p>
-                          <i
-                            class="fa fa-quote-right font-36 mt-10 text-gray-lightgray"></i>
-                          <h5 class="author text-theme-colored mb-0">Catherine
-                            Grace</h5>
-                          <h6 class="title text-gray mt-0 mb-15">Designer</h6>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="item">
-                      <div class="testimonial-wrapper text-center">
-                        <div class="thumb"><img class="img-circle" alt
-                            src="images/testimonials/3.jpg"></div>
-                        <div class="content pt-10">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Vestibulum feugiat turpis nec leo pellentesque
-                            tincidunt adipiscing elit.</p>
-                          <i
-                            class="fa fa-quote-right font-36 mt-10 text-gray-lightgray"></i>
-                          <h5 class="author text-theme-colored mb-0">Catherine
-                            Grace</h5>
-                          <h6 class="title text-gray mt-0 mb-15">Designer</h6>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+            </div>
+                
+                  <!-- End Portfolio Gallery Grid -->
                 </div>
               </div>
             </div>
           </div>
         </section>
 
+        
+
         <!-- Section: Blog -->
-        <section id="blog" data-bg-img="images/pattern/p8.png">
-          <div class="container pb-80">
-            <div class="section-title text-center">
-              <div class="row">
-                <div class="col-md-12">
-                  <h2 class="mt-0 line-height-1">Latest <span
-                      class="text-theme-colored">News</span></h2>
-                </div>
-              </div>
+        <!-- Section: Blog -->
+    <section>
+      <div class="container pt-70">
+        <div class="section-title text-center">
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+              <h2 class="mt-0 line-height-1">Recent  
+                <span class="text-theme-colored"> News</span>
+              </h2>
+              <p>News is the lifeblood of an informed society, the connective tissue that binds communities 
+              <br> and nations together.
+                </p>
             </div>
-            <div class="section-content">
-              <div class="row">
-                <div class="col-xs-12 col-sm-6 col-md-4">
-                  <article class="post clearfix mb-sm-30">
-                    <div class="entry-header">
-                      <div class="post-thumb thumb">
-                        <img src="images/blog/1.jpg" alt
-                          class="img-responsive img-fullwidth">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+              <div class="owl-carousel-3col owl-nav-top mb-sm-80" data-dots="true">
+              <div class="item">
+                <article class="post clearfix maxwidth600 mb-sm-30 wow fadeInRight" data-wow-delay=".2s">
+                  <div class="entry-header">
+                    <div class="post-thumb thumb"> <img src="images/blog/1.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <!-- <div class="entry-meta meta-absolute text-center pl-15 pr-15">
+                    <div class="display-table">
+                      <div class="display-table-cell">
+                        <ul>
+                          <li><a class="text-white" href="#"><i class="fa fa-thumbs-o-up"></i> 265 <br> Likes</a></li>
+                          <li class="mt-20"><a class="text-white" href="#"><i class="fa fa-comments-o"></i> 72 <br> comments</a></li>
+                        </ul>
                       </div>
                     </div>
-                    <div class="entry-content p-20 pr-10">
-                      <div class="entry-meta media mt-0 no-bg no-border">
-                        <div class="entry-date media-left flip text-center">
-                          <ul>
-                            <li
-                              class="font-16 font-weight-600 border-bottom bg-white-f1 pt-5 pr-15 pb-5 pl-15">28</li>
-                            <li
-                              class="font-12 text-white text-uppercase bg-theme-colored pt-5 pr-15 pb-5 pl-15">Feb</li>
-                          </ul>
-                        </div>
-                        <div class="media-body pl-10">
-                          <div class="event-content pull-left flip">
-                            <h4
-                              class="entry-title text-white text-capitalize m-0"><a
-                                href="#">This is a standard post with thumbnail</a></h4>
-                            <span class="mb-10 text-gray-darkgray mr-10 font-13"><i
-                                class="fa fa-commenting-o mr-5 text-theme-colored"></i>
-                              214 Comments</span>
-                            <span class="mb-10 text-gray-darkgray mr-10 font-13"><i
-                                class="fa fa-heart-o mr-5 text-theme-colored"></i>
-                              895 Likes</span>
-                          </div>
-                        </div>
-                      </div>
-                      <p class="mt-10">Lorem ipsum dolor sit amet, consectetur
-                        adipisi cing elit. Molestias eius illum libero dolor
-                        nobis deleniti, sint assumenda. Pariatur iste veritatis
-                        excepturi, ipsa optio nobis</p>
-                      <div class="mt-10"> <a href="#"
-                          class="btn btn-theme-colored btn-sm">Read More</a>
-                      </div>
-                      <div class="clearfix"></div>
-                    </div>
-                  </article>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-4">
-                  <article class="post clearfix mb-sm-30">
-                    <div class="entry-header">
-                      <div class="post-thumb thumb">
-                        <img src="images/blog/2.jpg" alt
-                          class="img-responsive img-fullwidth">
+                    </div> -->
+                  </div>
+                  <div class="entry-content border-1px p-20">
+                    <h5 class="entry-title mt-0 pt-0"><a href="#">Sponsor a child today</a></h5>
+                    <p class="text-left mb-20 mt-15 font-13">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                    <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a>
+                    <ul class="list-inline entry-date pull-right font-12 mt-5">
+                      <li><a class="text-theme-colored" href="#">Admin |</a></li>
+                      <li><span class="text-theme-colored">Nov 13, 2015</span></li>
+                    </ul>
+                    <div class="clearfix"></div>
+                  </div>
+                </article>
+              </div>
+              <div class="item">
+                <article class="post clearfix maxwidth600 mb-sm-30 wow fadeInRight" data-wow-delay=".4s">
+                  <div class="entry-header">
+                    <div class="post-thumb thumb"> <img src="images/blog/2.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="entry-meta meta-absolute text-center pl-15 pr-15">
+                    <div class="display-table">
+                      <div class="display-table-cell">
+                        <!-- <ul>
+                          <li><a class="text-white" href="#"><i class="fa fa-thumbs-o-up"></i> 265 <br> Likes</a></li>
+                          <li class="mt-20"><a class="text-white" href="#"><i class="fa fa-comments-o"></i> 72 <br> comments</a></li>
+                        </ul> -->
                       </div>
                     </div>
-                    <div class="entry-content p-20 pr-10">
-                      <div class="entry-meta media mt-0 no-bg no-border">
-                        <div class="entry-date media-left flip text-center">
-                          <ul>
-                            <li
-                              class="font-16 font-weight-600 border-bottom bg-white-f1 pt-5 pr-15 pb-5 pl-15">28</li>
-                            <li
-                              class="font-12 text-white text-uppercase bg-theme-colored pt-5 pr-15 pb-5 pl-15">Feb</li>
-                          </ul>
-                        </div>
-                        <div class="media-body pl-10">
-                          <div class="event-content pull-left flip">
-                            <h4
-                              class="entry-title text-white text-capitalize m-0"><a
-                                href="#">This is a standard post with thumbnail</a></h4>
-                            <span class="mb-10 text-gray-darkgray mr-10 font-13"><i
-                                class="fa fa-commenting-o mr-5 text-theme-colored"></i>
-                              214 Comments</span>
-                            <span class="mb-10 text-gray-darkgray mr-10 font-13"><i
-                                class="fa fa-heart-o mr-5 text-theme-colored"></i>
-                              895 Likes</span>
-                          </div>
-                        </div>
-                      </div>
-                      <p class="mt-10">Lorem ipsum dolor sit amet, consectetur
-                        adipisi cing elit. Molestias eius illum libero dolor
-                        nobis deleniti, sint assumenda. Pariatur iste veritatis
-                        excepturi, ipsa optio nobis</p>
-                      <div class="mt-10"> <a href="#"
-                          class="btn btn-theme-colored btn-sm">Read More</a>
-                      </div>
-                      <div class="clearfix"></div>
                     </div>
-                  </article>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-4">
-                  <article class="post clearfix mb-sm-30">
-                    <div class="entry-header">
-                      <div class="post-thumb thumb">
-                        <img src="images/blog/3.jpg" alt
-                          class="img-responsive img-fullwidth">
+                  </div>
+                  <div class="entry-content border-1px p-20">
+                    <h5 class="entry-title mt-0 pt-0"><a href="#">Sponsor a child today</a></h5>
+                    <p class="text-left mb-20 mt-15 font-13">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                    <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a>
+                    <ul class="list-inline entry-date pull-right font-12 mt-5">
+                      <li><a class="text-theme-colored" href="#">Admin |</a></li>
+                      <li><span class="text-theme-colored">Nov 13, 2015</span></li>
+                    </ul>
+                    <div class="clearfix"></div>
+                  </div>
+                </article>
+              </div>
+              <div class="item">
+                <article class="post clearfix maxwidth600 mb-sm-30 wow fadeInRight" data-wow-delay=".6s">
+                  <div class="entry-header">
+                    <div class="post-thumb thumb"> <img src="images/blog/3.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="entry-meta meta-absolute text-center pl-15 pr-15">
+                    <div class="display-table">
+                      <div class="display-table-cell">
+                        <ul>
+                          <li><a class="text-white" href="#"><i class="fa fa-thumbs-o-up"></i> 265 <br> Likes</a></li>
+                          <li class="mt-20"><a class="text-white" href="#"><i class="fa fa-comments-o"></i> 72 <br> comments</a></li>
+                        </ul>
                       </div>
                     </div>
-                    <div class="entry-content p-20 pr-10">
-                      <div class="entry-meta media mt-0 no-bg no-border">
-                        <div class="entry-date media-left flip text-center">
-                          <ul>
-                            <li
-                              class="font-16 font-weight-600 border-bottom bg-white-f1 pt-5 pr-15 pb-5 pl-15">28</li>
-                            <li
-                              class="font-12 text-white text-uppercase bg-theme-colored pt-5 pr-15 pb-5 pl-15">Feb</li>
-                          </ul>
-                        </div>
-                        <div class="media-body pl-10">
-                          <div class="event-content pull-left flip">
-                            <h4
-                              class="entry-title text-white text-capitalize m-0"><a
-                                href="#">This is a standard post with thumbnail</a></h4>
-                            <span class="mb-10 text-gray-darkgray mr-10 font-13"><i
-                                class="fa fa-commenting-o mr-5 text-theme-colored"></i>
-                              214 Comments</span>
-                            <span class="mb-10 text-gray-darkgray mr-10 font-13"><i
-                                class="fa fa-heart-o mr-5 text-theme-colored"></i>
-                              895 Likes</span>
-                          </div>
-                        </div>
-                      </div>
-                      <p class="mt-10">Lorem ipsum dolor sit amet, consectetur
-                        adipisi cing elit. Molestias eius illum libero dolor
-                        nobis deleniti, sint assumenda. Pariatur iste veritatis
-                        excepturi, ipsa optio nobis</p>
-                      <div class="mt-10"> <a href="#"
-                          class="btn btn-theme-colored btn-sm">Read More</a>
-                      </div>
-                      <div class="clearfix"></div>
                     </div>
-                  </article>
-                </div>
+                  </div>
+                  <div class="entry-content border-1px p-20">
+                    <h5 class="entry-title mt-0 pt-0"><a href="#">Sponsor a child today</a></h5>
+                    <p class="text-left mb-20 mt-15 font-13">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                    <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a>
+                    <ul class="list-inline entry-date pull-right font-12 mt-5">
+                      <li><a class="text-theme-colored" href="#">Admin |</a></li>
+                      <li><span class="text-theme-colored">Nov 13, 2015</span></li>
+                    </ul>
+                    <div class="clearfix"></div>
+                  </div>
+                </article>
+              </div>
+              <div class="item">
+                <article class="post clearfix maxwidth600 mb-sm-30">
+                  <div class="entry-header">
+                    <div class="post-thumb thumb"> <img src="images/blog/2.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="entry-meta meta-absolute text-center pl-15 pr-15">
+                    <div class="display-table">
+                      <div class="display-table-cell">
+                        <ul>
+                          <li><a class="text-white" href="#"><i class="fa fa-thumbs-o-up"></i> 265 <br> Likes</a></li>
+                          <li class="mt-20"><a class="text-white" href="#"><i class="fa fa-comments-o"></i> 72 <br> comments</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    </div>
+                  </div>
+                  <div class="entry-content border-1px p-20">
+                    <h5 class="entry-title mt-0 pt-0"><a href="#">Sponsor a child today</a></h5>
+                    <p class="text-left mb-20 mt-15 font-13">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                    <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a>
+                    <ul class="list-inline entry-date pull-right font-12 mt-5">
+                      <li><a class="text-theme-colored" href="#">Admin |</a></li>
+                      <li><span class="text-theme-colored">Nov 13, 2015</span></li>
+                    </ul>
+                    <div class="clearfix"></div>
+                  </div>
+                </article>
+              </div>
+              <div class="item">
+                <article class="post clearfix maxwidth600 mb-sm-30">
+                  <div class="entry-header">
+                    <div class="post-thumb thumb"> <img src="images/blog/3.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="entry-meta meta-absolute text-center pl-15 pr-15">
+                    <div class="display-table">
+                      <div class="display-table-cell">
+                        <ul>
+                          <li><a class="text-white" href="#"><i class="fa fa-thumbs-o-up"></i> 265 <br> Likes</a></li>
+                          <li class="mt-20"><a class="text-white" href="#"><i class="fa fa-comments-o"></i> 72 <br> comments</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    </div>
+                  </div>
+                  <div class="entry-content border-1px p-20">
+                    <h5 class="entry-title mt-0 pt-0"><a href="#">Sponsor a child today</a></h5>
+                    <p class="text-left mb-20 mt-15 font-13">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                    <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a>
+                    <ul class="list-inline entry-date pull-right font-12 mt-5">
+                      <li><a class="text-theme-colored" href="#">Admin |</a></li>
+                      <li><span class="text-theme-colored">Nov 13, 2015</span></li>
+                    </ul>
+                    <div class="clearfix"></div>
+                  </div>
+                </article>
               </div>
             </div>
           </div>
-        </section>
+        </div>
+      </div>
+    </section>
+       
 
       </div>
       <!-- end main-content -->

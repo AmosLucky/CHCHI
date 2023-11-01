@@ -201,6 +201,8 @@
       src="js/revolution-slider/js/extensions/revolution.extension.slideanims.min.js"></script>
     <script type="text/javascript"
       src="js/revolution-slider/js/extensions/revolution.extension.video.min.js"></script>
+      
+      <link href="css/colors/theme-skin-sky-blue.css?1698832583178" rel="stylesheet" type="text/css" id="link-colors-style">
   </body>
 
   <!-- Mirrored from kodesolution.com/html/2016/echarity-html/demo/index-mp-layout1.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Oct 2023 04:45:57 GMT -->
